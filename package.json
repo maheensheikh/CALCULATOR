@@ -1,17 +1,17 @@
 {
-  "name": "maheen_mycal",
+  "name": "maheenrashid_mycal",
   "version": "1.1.0",
   "description": "simple Cli calculator for node projects",
   "main": "index.js",
   "type": "module",
   "bin": {
-    "maheen_mycal": "index.js"
+    "maheenrashid_mycal": "index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": " maheen",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "chalk": "^5.3.0",
