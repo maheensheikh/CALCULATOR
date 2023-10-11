@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "module",
   "bin": {
-    "maheen_mycal": "dist/index.js"
+    "maheen_mycal": "index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
